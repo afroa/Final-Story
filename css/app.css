@@ -1,37 +1,37 @@
 
 
-h1 {color: #000000; font-family: 'Montserrat', sans-serif; font-size: 5rem; font-weight: 900; text-align: left;}
+h1 {color: #000000; font-family: 'Montserrat', sans-serif; font-size: 3rem; font-weight: 900; text-align: left;}
 
-h2 {color: #000000; font-family: 'Montserrat'; transform: titlecase; font-size: 3.5rem; font-weight: 500;}
+h2 {color: #000000; font-family: 'Montserrat'; transform: titlecase; font-size: 2.5rem; font-weight: 500;}
 
-h3 {color:  #231100; font-family: 'Montserrat'; font-size: 2rem; padding: 10px; font-weight: 550; text-align: center;}
+h3 {color:  #231100; font-family: 'Montserrat'; font-size: 1.5rem; padding: 10px; font-weight: 550; text-align: center;}
 
 h4 {color: #000000; font-family: 'Montserrat'; transform: titlecase; font-size: 2rem; font-weight: 500; text-align: center;}
 
 h5 {color: #000000; font-family: 'Montserrat'; transform: titlecase; font-size: 1.8rem; font-weight: 500; text-align: left;  padding: 2px;}
 
 
-p {color:  #000000; font-family: 'Montserrat'; font-size: 2rem; padding: 10px; font-weight: 500; text-align: left;}
+p {color:  #000000; font-family: 'Montserrat'; font-size: 1.5rem; padding: 10px; font-weight: 500; text-align: left;}
 
-.mainheader {padding:  50px 5px 20px 5px; background-color:  #8C8C8C; color:  #f4f4f4; text-align:  left; float: left;}
+.mainheader {padding:  50px 100px 10px 100px; background-color:  #8C8C8C; color:  #f4f4f4; text-align:  left; float: left; }
 
-.graphs {padding:  10px; }
+.graphs {padding:  0px;}
 
-.blurb {padding:  10px 5px 10px 5px; background-color:  #17567F; color:  #f4f4f4; text-align:  left; float: left;}
+.blurb {padding:  5px 100px 10px 100px; background-color:  #17567F; color:  #f4f4f4; text-align:  left; float: left;}
 
-.bodybox {padding: 5px 5px 5px 5px;}
+.bodybox {padding: 0px 200px 0px 100px;} 
 
-.callout1 {background-color: #17567F; border: solid 8px #8C8C8C; }
+.callout1 {background-color: #17567F; border: solid 8px #8C8C8C; margin: 50px;}
 
-.box2 {background-color: #F9E014;}
+.box2 {background-color: #F9E014; margin: 50px;}
 
-.box3 {background-color: #17BDB9;}
+.box3 {background-color: #17BDB9; margin: 50px;}
 
-.box4 {background-color:  #FFFFFF;}
+.box4 {background-color:  #FFFFFF; margin: 50px;}
 
-.img1 {img max-width: 100%; height: auto;}
+.img1 {img max-width: 100%; height: auto; margin: 50px;}
 
-.img-caption {background-color: #D3E3E6; opacity:  .5;}
+.img-caption {background-color: #D3E3E6; opacity:  .5; margin: 50px;}
 
 .videoWrapper {
   position: relative;
